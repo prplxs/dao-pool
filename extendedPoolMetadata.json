@@ -1,0 +1,39 @@
+{
+"info": {
+"url_png_icon_64x64": "https://github.com/prplxs/dao-pool/raw/main/poolLogo.png",
+"url_png_logo": "https://github.com/prplxs/dao-pool/raw/main/poolLogo.png",
+"location": "",
+"social": {
+"twitter_handle": "DAO_StakePool",
+"telegram_handle": "",
+"facebook_handle": "",
+"youtube_handle": "",
+"twitch_handle": "",
+"discord_handle": "",
+"github_handle": "prplxs"
+},
+"company": {
+"name": "",
+"addr": "",
+"city": "",
+"country": "",
+"company_id": "",
+"vat_id": ""
+},
+"about": {
+"me": "",
+"server": "",
+"company": ""
+},
+"rss": ""
+},
+"telegram-admin-handle": [
+""
+],
+"my-pool-ids": [
+"b1dde27cdda55577137376f9cd867c68bd22f7343a9c0ce0cc2cd551"
+],
+"when-satured-then-recommend": [
+"b1dde27cdda55577137376f9cd867c68bd22f7343a9c0ce0cc2cd551"
+]
+}
