@@ -1,6 +1,6 @@
 {
 "name": "DAO Pool",
-"description": "The DAO Pool: Powered by Perplexus. Delegate today!",
+"description": "The DAO Pool: Powered by Perplexus.",
 "ticker": "DAO",
 "homepage": "https://perplexus.io/dao-pool",
 "extended": "https://github.com/prplxs/dao-pool/extendedPoolMetadata.json"
