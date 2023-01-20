@@ -3,5 +3,5 @@
 "description": "The DAO Pool: Powered by Perplexus.",
 "ticker": "DAO",
 "homepage": "https://perplexus.io/dao-pool",
-"extended": "https://github.com/prplxs/dao-pool/extendedPoolMetadata.json"
+"extended": "https://raw.githubusercontent.com/prplxs/dao-pool/main/extendedPoolMetadata.json"
 }
